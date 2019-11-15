@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CatApp</string>
+    <string name="search">Search</string>
+    <string name="fav">Favourites</string>
+    <string name="origin">Origin: </string>
+    <string name="weight">Weight: </string>
+    <string name="life_span">Life Span: </string>
+    <string name="temp">Temperament: </string>
+    <string name="dog_f">Dog Friendliness: </string>
+
+    <string name="api_key">352c6ffa-6f8d-424e-9dd0-8b11367e381f</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
